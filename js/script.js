@@ -37,13 +37,3 @@ window.addEventListener('DOMContentLoaded', () => {
         field: '.offer__slider-inner'
     });
 });
-
-
-function disemvowel(str) {
-
-
-    
-    return str;
-  }
-
-  console.log(disemvowel("QWERTY QWrer QWEsdf"));
